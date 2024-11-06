@@ -1,5 +1,6 @@
 Hi there 👋
-- 🔭 Currently solving leetcode challenges.
+This is my first repo.
+- 🔭 I am currently solving leetcode challenges.
 
 <!--
 **Kryptonianguy/Kryptonianguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
