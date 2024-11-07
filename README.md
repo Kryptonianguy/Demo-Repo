@@ -1,4 +1,4 @@
-Hi there 👋
+Hi there folks 👋
 <br>
 This is my first repo.
 - 🔭 I am currently solving leetcode challenges.
